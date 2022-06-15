@@ -42,7 +42,7 @@ const About = () => {
           </div>
           
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta quibusdam nobis dolor nesciunt quia repellendus similique temporibus deserunt, odit ut necessitatibus, dolorum atque! Ratione error culpa temporibus ex iusto laudantium.
+            My name is Patrick Sachleben. In my spare time I pursue several forms of entertainment. I like most forms of gaming be they video, board, or even card games. I enjoy reading, favoring the fantasy and sci-fi genres. I also enjoy watching movies such as anything Star Wars, Star Trek (the two are not mutually exclusive), Marvel, etc. I am a Full Stack Web Developer with a background in leadership that recently earned a certificate in full stack development from Butler University. I have newly developed skills in JavaScript, CSS, the MERN stack, and responsive web design. I'm known as passionate about developing apps, with focus on mobile-first design and smooth user experience. I aim to develop apps that meet and exceed client/company requirements. I'm excited to leverage my skills as part of a quality-driven team to build useful apps and experiences on the web.
           </p>
 
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
