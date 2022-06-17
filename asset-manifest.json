@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Patrick-Sachleben-portfolio/static/css/main.21f412e4.css",
+    "main.js": "/Patrick-Sachleben-portfolio/static/js/main.5fb7cd95.js",
+    "static/media/millenium.JPG": "/Patrick-Sachleben-portfolio/static/media/millenium.f700aabd76c7f285df96.JPG",
+    "static/media/0517-0047.jpg": "/Patrick-Sachleben-portfolio/static/media/0517-0047.aad46c304ce80fa1e109.jpg",
+    "static/media/black-linen.png": "/Patrick-Sachleben-portfolio/static/media/black-linen.8a1abc775dec4ce9e1d1.png",
+    "static/media/git-it-done-screen.png": "/Patrick-Sachleben-portfolio/static/media/git-it-done-screen.1ddeab265eccb4eeadba.png",
+    "static/media/patrickSachlebenResume.pdf": "/Patrick-Sachleben-portfolio/static/media/patrickSachlebenResume.ba292f151cfebf5260bc.pdf",
+    "static/media/person-2.jpg": "/Patrick-Sachleben-portfolio/static/media/person-2.6ff89b7974688a8cedd4.jpg",
+    "static/media/workday-schedule-screen.png": "/Patrick-Sachleben-portfolio/static/media/workday-schedule-screen.786ef099b96b185d50cd.png",
+    "static/media/Taskinator-screen.png": "/Patrick-Sachleben-portfolio/static/media/Taskinator-screen.f788e8aa18140c1c35ab.png",
+    "static/media/Night-Picks-screenshot.png": "/Patrick-Sachleben-portfolio/static/media/Night-Picks-screenshot.5b59e39caa653be3ba12.png",
+    "static/media/h-booker-screen.png": "/Patrick-Sachleben-portfolio/static/media/h-booker-screen.9c4223dfaff9d0b67e3a.png",
+    "static/media/person.jpg": "/Patrick-Sachleben-portfolio/static/media/person.a67d781357559ea1b3d8.jpg",
+    "index.html": "/Patrick-Sachleben-portfolio/index.html",
+    "main.21f412e4.css.map": "/Patrick-Sachleben-portfolio/static/css/main.21f412e4.css.map",
+    "main.5fb7cd95.js.map": "/Patrick-Sachleben-portfolio/static/js/main.5fb7cd95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21f412e4.css",
+    "static/js/main.5fb7cd95.js"
+  ]
+}
