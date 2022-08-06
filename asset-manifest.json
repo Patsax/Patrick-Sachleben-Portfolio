@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Patrick-Sachleben-Portfolio/static/css/main.67e450cc.css",
-    "main.js": "/Patrick-Sachleben-Portfolio/static/js/main.33bdde75.js",
+    "main.css": "/Patrick-Sachleben-Portfolio/static/css/main.e38b5ade.css",
+    "main.js": "/Patrick-Sachleben-Portfolio/static/js/main.884d0eeb.js",
     "static/media/millenium.JPG": "/Patrick-Sachleben-Portfolio/static/media/millenium.f700aabd76c7f285df96.JPG",
     "static/media/0517-0047.jpg": "/Patrick-Sachleben-Portfolio/static/media/0517-0047.aad46c304ce80fa1e109.jpg",
     "static/media/black-linen.png": "/Patrick-Sachleben-Portfolio/static/media/black-linen.8a1abc775dec4ce9e1d1.png",
@@ -14,11 +14,11 @@
     "static/media/h-booker-screen.png": "/Patrick-Sachleben-Portfolio/static/media/h-booker-screen.9c4223dfaff9d0b67e3a.png",
     "static/media/person.jpg": "/Patrick-Sachleben-Portfolio/static/media/person.a67d781357559ea1b3d8.jpg",
     "index.html": "/Patrick-Sachleben-Portfolio/index.html",
-    "main.67e450cc.css.map": "/Patrick-Sachleben-Portfolio/static/css/main.67e450cc.css.map",
-    "main.33bdde75.js.map": "/Patrick-Sachleben-Portfolio/static/js/main.33bdde75.js.map"
+    "main.e38b5ade.css.map": "/Patrick-Sachleben-Portfolio/static/css/main.e38b5ade.css.map",
+    "main.884d0eeb.js.map": "/Patrick-Sachleben-Portfolio/static/js/main.884d0eeb.js.map"
   },
   "entrypoints": [
-    "static/css/main.67e450cc.css",
-    "static/js/main.33bdde75.js"
+    "static/css/main.e38b5ade.css",
+    "static/js/main.884d0eeb.js"
   ]
 }
