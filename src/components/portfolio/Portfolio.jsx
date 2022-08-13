@@ -5,6 +5,7 @@ import img2 from '../../assets/Night-Picks-screenshot.png'
 import img3 from '../../assets/git-it-done-screen.png'
 import img4 from '../../assets/workday-schedule-screen.png'
 import img5 from '../../assets/Taskinator-screen.png'
+import img6 from '../../assets/quiz.png'
 
 const data = [
   {
@@ -46,6 +47,14 @@ const data = [
     description: 'This is a simple To Do list with drag and drop functionality. The user can just type in a task name and pick a type, then it will appear in the To Do section. The task can then be moved to and from the other sections.',
     github: 'https://github.com/Patsax/taskinator',
     demo: 'https://patsax.github.io/taskinator/'
+  },
+  {
+    id: 6,
+    image: img6,
+    title: 'quizApp',
+    description: 'A simple quiz application that will indicate correct and wrong answers. The base quiz only has four questions. Anyone familiar with coding will be able to download the code and add or remove any qustions they wish.',
+    github: 'https://github.com/Patsax/quizApp',
+    demo: 'https://patsax.github.io/quizApp/'
   }
 ]
 
